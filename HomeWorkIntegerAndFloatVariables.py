@@ -15,6 +15,7 @@ donation_amount = net_salary * donation_to_the_poor
 
 print("Donation amount in $ : " + str(round(donation_amount,2)))
 print("Donation amount in $ : " + "{:.2f}".format(donation_amount))
+print()
 
 
 
